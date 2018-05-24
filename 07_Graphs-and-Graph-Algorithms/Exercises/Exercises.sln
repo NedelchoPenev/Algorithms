@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Distance_Between_Vertices", "01_Distance_Between_Vertices\01_Distance_Between_Vertices.csproj", "{969C97DC-C8FD-4304-9053-9724BE1BB7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Areas_in_Matrix", "02_Areas_in_Matrix\02_Areas_in_Matrix.csproj", "{FF471754-628D-4FFA-AA78-BBD988CBAB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Cycles_in_a_Graph", "03_Cycles_in_a_Graph\03_Cycles_in_a_Graph.csproj", "{CCBE5B6F-972F-4B78-8EDD-C6C425F238FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04._Salaries", "04._Salaries\04._Salaries.csproj", "{751E21C7-0714-4B4B-BD42-04AD07BB72D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Break_Cycles", "05_Break_Cycles\05_Break_Cycles.csproj", "{AD3A8558-5067-40FD-8695-1F4A96858C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969C97DC-C8FD-4304-9053-9724BE1BB7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969C97DC-C8FD-4304-9053-9724BE1BB7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969C97DC-C8FD-4304-9053-9724BE1BB7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969C97DC-C8FD-4304-9053-9724BE1BB7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF471754-628D-4FFA-AA78-BBD988CBAB57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF471754-628D-4FFA-AA78-BBD988CBAB57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF471754-628D-4FFA-AA78-BBD988CBAB57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF471754-628D-4FFA-AA78-BBD988CBAB57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBE5B6F-972F-4B78-8EDD-C6C425F238FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBE5B6F-972F-4B78-8EDD-C6C425F238FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBE5B6F-972F-4B78-8EDD-C6C425F238FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBE5B6F-972F-4B78-8EDD-C6C425F238FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751E21C7-0714-4B4B-BD42-04AD07BB72D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751E21C7-0714-4B4B-BD42-04AD07BB72D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751E21C7-0714-4B4B-BD42-04AD07BB72D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751E21C7-0714-4B4B-BD42-04AD07BB72D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3A8558-5067-40FD-8695-1F4A96858C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3A8558-5067-40FD-8695-1F4A96858C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3A8558-5067-40FD-8695-1F4A96858C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3A8558-5067-40FD-8695-1F4A96858C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

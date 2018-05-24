@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Merge_Sort", "01_Merge_Sort\01_Merge_Sort.csproj", "{E9FE8025-5450-4736-83E9-8C5C316B91A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Quicksort", "02_Quicksort\02_Quicksort.csproj", "{01165B73-AEE2-492C-A781-FAB4A08BF07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Binary_Search", "03_Binary_Search\03_Binary_Search.csproj", "{5A3EAE17-A0FB-44E1-A7F5-71CE04954EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FE8025-5450-4736-83E9-8C5C316B91A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FE8025-5450-4736-83E9-8C5C316B91A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FE8025-5450-4736-83E9-8C5C316B91A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FE8025-5450-4736-83E9-8C5C316B91A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01165B73-AEE2-492C-A781-FAB4A08BF07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01165B73-AEE2-492C-A781-FAB4A08BF07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01165B73-AEE2-492C-A781-FAB4A08BF07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01165B73-AEE2-492C-A781-FAB4A08BF07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3EAE17-A0FB-44E1-A7F5-71CE04954EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3EAE17-A0FB-44E1-A7F5-71CE04954EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3EAE17-A0FB-44E1-A7F5-71CE04954EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3EAE17-A0FB-44E1-A7F5-71CE04954EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
